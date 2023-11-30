@@ -177,7 +177,7 @@ header nav ul li a.active {
 .game {
   background-color: transparent;
   position: fixed;
-  top: 300px;
+  top: 400px;
   box-shadow: 0 0 50px rgb(0, 0, 0);
   backdrop-filter: blur(50px);
   transition: transform 0.5s, box-shadow 0.5s;
